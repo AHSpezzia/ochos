@@ -35,7 +35,7 @@ var element=document.getElementById('acelerometro');
 element.innerHTML='Aceleracion en X: '+acceleration.x+'<br />'+
 'Aceleracion en Y: '+acceleration.y+'<br />'+
 'Aceleracion en Z: '+acceleration.Z+'<br />'+
-'Intervalo: '+accelaration.timestamp+'<br />';
+'Intervalo: '+acceleration.timestamp+'<br />';
 }
 
 //eRROR:FALLA al obtener la celeracion
